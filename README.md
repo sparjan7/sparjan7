@@ -17,6 +17,7 @@
 - Explore advanced analytics in Power BI, such as predictive analytics and AI-powered visuals.
 
 ## 📰 Certifications
+- CERTIFIED DATA ANALYST, SilloVilla
 - Microsoft Power BI Bootcamp, Udemy
 ## 🌟 Fun Fact
 - I enjoy solving puzzles, both in code and in real life!
