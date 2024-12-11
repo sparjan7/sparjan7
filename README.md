@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I am Sprjan 
 
-<!--
-**sparjan7/sparjan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 📊 **Data Analyst** | Skilled in Advanced Ms.Excel, SQL, Python, Power BI.
+- 📈 Passionate about transforming complex data into clear, actionable insights.
+- 🌱 **Currently Learning:** Advanced data visualization techniques and predictive analytics.
+- 💼 **Background:** [Software Engineer, and the value it brings to your data analytics career.]
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming & Tools:** PostgreSQL, Python, Adavnced Excel, Power BI, 
+- **Specialties:** Data cleaning, Data Modelling, visualization, and storytelling through dashboards  
+- **Soft Skills:** Problem-solving, critical thinking, communication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build impactful dashboards and reports that drive data-driven decision-making.
+- Master advanced SQL techniques for efficient data extraction and manipulation.
+- Explore advanced analytics in Power BI, such as predictive analytics and AI-powered visuals.
+
+## 🌟 Fun Fact
+- I enjoy solving puzzles, both in code and in real life!
+
+## 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/sparjan-s)
