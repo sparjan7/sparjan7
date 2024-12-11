@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Sprjan 
 
 ## 🧑‍💻 About Me
-- 📊 **Data Analyst** | Skilled in Advanced Ms.Excel, SQL, Python, Power BI.
+- 📊 **Data Analyst** | Skilled in Advanced Excel, PostgreSQL, Python, Power BI.
 - 📈 Passionate about transforming complex data into clear, actionable insights.
 - 🌱 **Currently Learning:** Advanced data visualization techniques and predictive analytics.
 - 💼 **Background:** Software Engineer | Cognizant | PLM Developer | Windchill Framework
@@ -16,6 +16,8 @@
 - Master advanced SQL techniques for efficient data extraction and manipulation.
 - Explore advanced analytics in Power BI, such as predictive analytics and AI-powered visuals.
 
+## 📰 Certifications
+- Microsoft Power BI Bootcamp, Udemy
 ## 🌟 Fun Fact
 - I enjoy solving puzzles, both in code and in real life!
 
