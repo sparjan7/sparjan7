@@ -4,7 +4,7 @@
 - 📊 **Data Analyst** | Skilled in Advanced Ms.Excel, SQL, Python, Power BI.
 - 📈 Passionate about transforming complex data into clear, actionable insights.
 - 🌱 **Currently Learning:** Advanced data visualization techniques and predictive analytics.
-- 💼 **Background:** [Software Engineer, and the value it brings to your data analytics career.]
+- 💼 **Background:** Software Engineer | Cognizant | PLM Developer | Windchill Framework
 
 ## 🔧 Skills
 - **Programming & Tools:** PostgreSQL, Python, Adavnced Excel, Power BI, 
